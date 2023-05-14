@@ -1,8 +1,9 @@
 
-## Olá! Eu sou Thayná Barbosa 👋
+## Hello! I'm Thayná Barbosa 👋
 <br>
 
-## 💻 Tecnologias
+
+## 💻 Technologies
 
 <p align="center">
 
@@ -20,3 +21,15 @@
 <br>
 
 ![thxayna GitHub stats](https://github-readme-stats.vercel.app/api?username=thxayna&show_icons=true&theme=dracula)
+
+## 📧 Contacts
+<br>
+<p align="center">
+<a href = "mailto:thxayna@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</a>
+<a id="linkedin" href="https://www.linkedin.com/in/thxayna">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+ 
