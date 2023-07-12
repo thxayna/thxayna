@@ -17,11 +17,6 @@
 </p>
 <br>
 
-## ⭐ GitHub Stats
-<br>
-
-![thxayna GitHub stats](https://github-readme-stats.vercel.app/api?username=thxayna&show_icons=true&theme=dracula)
-
 ## 📧 Contacts
 <br>
 <p align="center">
